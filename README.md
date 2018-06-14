@@ -23,7 +23,7 @@ allprojects {
 }
 
 dependencies {
-    implementation 'com.github.imeszaros:ambilight-api:0.1'
+    implementation 'com.github.imeszaros:ambilight-api:v0.1'
 }
 ```
 
